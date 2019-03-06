@@ -2,7 +2,7 @@
     "name": "MiniPOW",
     "version": "1.0.0",
     "description": "Extension for MiniPOW Robot by Mason E&D",
-    "license": "GPL", 
+    "license": "MIT", 
     "dependencies": {
         "core": "*"
     },
