@@ -1,0 +1,15 @@
+{
+    "name": "MiniPOW",
+    "version": "1.0.0",
+    "description": "Extension for MiniPOW Robot by Mason E&D",
+    "license": "GPL", 
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "main.ts",
+        "README.md",
+        "_locales/zh/MiniPOW-strings.json"
+    ],
+    "public": true
+}
