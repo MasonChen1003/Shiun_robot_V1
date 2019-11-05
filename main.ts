@@ -59,10 +59,10 @@ namespace MiniPOW {
 
     function s90(s: number, angle: number) {
         if (s==3){
-        pins.servoWritePin(AnalogPin.P0, angle + d[0])
+        pins.servoWritePin(AnalogPin.P1, angle + d[1])
         }
         if (s==1){
-        pins.servoWritePin(AnalogPin.P1, angle + d[1])
+        pins.servoWritePin(AnalogPin.P0, angle + d[0])
         }
         if (s==0){
         pins.servoWritePin(AnalogPin.P2, angle + d[2])
